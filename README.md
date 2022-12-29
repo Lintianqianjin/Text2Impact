@@ -1,3 +1,1 @@
-# Text2Impact
----
-The project structure, runtime environment, and usage guidelines will be updated later.
+Please download data [here](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html) and save the file `metadata.csv` in the directory `data`. We use the version released on June 2, 2022.
